@@ -3,5 +3,6 @@
 <http://sequelize.org> and <https://sequelize.org/master>
 
 ```bash
-npm install sequelize
+npm init
+npm install sequelize # or: yarn add sequelize
 ```

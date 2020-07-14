@@ -1,0 +1,23 @@
+{
+  "name": "learning-sequelize",
+  "version": "1.0.0",
+  "description": "<http://sequelize.org> and <https://sequelize.org/master>",
+  "main": "index.js",
+  "dependencies": {
+    "sequelize": "^6.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hchiam/learning-sequelize.git"
+  },
+  "author": "hchiam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hchiam/learning-sequelize/issues"
+  },
+  "homepage": "https://github.com/hchiam/learning-sequelize#readme"
+}

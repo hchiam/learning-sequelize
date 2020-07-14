@@ -4,7 +4,8 @@
   "description": "<http://sequelize.org> and <https://sequelize.org/master>",
   "main": "index.js",
   "dependencies": {
-    "sequelize": "^6.3.3"
+    "sequelize": "^6.3.3",
+    "sqlite3": "^5.0.0"
   },
   "devDependencies": {},
   "scripts": {

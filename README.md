@@ -13,3 +13,10 @@ npm install sqlite3 # or: yarn add sqlite3
 
 node example.js
 ```
+
+## Run this repo
+
+```bash
+npm install # or: yarn
+node example.js
+```
